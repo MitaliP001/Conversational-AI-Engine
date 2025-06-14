@@ -19,7 +19,7 @@ This project provides a responsive web chat interface with dynamic FAQs, related
 
 ## Architecture Overview
 
-The chatbot frontend is built using plain JavaScript, HTML, and CSS for broad compatibility and ease of customization. It communicates with a backend AI service using REST API calls. This backend service hosts a large language model (LLM) — such as GPT or a similar transformer-based model — which generates human-like conversational responses based on the user input.
+The chatbot frontend is built using plain JavaScript, HTML, and CSS for broad compatibility and ease of customization. It communicates with a backend AI service using REST API calls. This backend service hosts a large language model (LLM) : such as GPT or a similar transformer-based model  which generates human-like conversational responses based on the user input.
 
 ---
 
