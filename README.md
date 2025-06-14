@@ -1,0 +1,2 @@
+# Conversational-AI-Engine
+Conversational-AI-Engine is a lightweight, customizable chatbot framework powered by large language models (LLMs). It features a dynamic web chat interface with FAQ and related questions, designed for easy integration with WordPress or any web platform via REST API.
