@@ -14,8 +14,11 @@ This project provides a responsive web chat interface with dynamic FAQs, related
 - Expandable resource accordion for additional user help  
 - Contact and support links integrated into the UI  
 - Easily customizable UI and backend endpoints  
-
 ---
+
+## Current Status
+
+The source code is currently maintained locally and will be uploaded to this repository soon.
 
 ## Architecture Overview
 
